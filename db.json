@@ -1,0 +1,563 @@
+{
+	"Nivel1": [
+		{
+			"pregunta": "Una de estas no es una plataforma para ver series:",
+			"opciones": [
+				{
+					"respuesta": "Netflix",
+					"correct": false
+				},
+				{
+					"respuesta": "Disney+",
+					"correct": false
+				},
+				{
+					"respuesta": "Amazon Prime",
+					"correct": false
+				},
+				{
+					"respuesta": "Shein",
+					"correct": true
+				}
+			],
+			"next": "Nivel2",
+			"puntos": 50
+		},
+		{
+			"pregunta": "Con qué aplicación realizarías una videoconferencia?",
+			"opciones": [
+				{
+					"respuesta": "Con Zoom",
+					"correct": false
+				},
+				{
+					"respuesta": "Con Teams",
+					"correct": false
+				},
+				{
+					"respuesta": "Con las dos anteriores",
+					"correct": true
+				},
+				{
+					"respuesta": " Con ninguna de las anteriores",
+					"correct": false
+				}
+			],
+			"next": "Nivel2",
+			"puntos": 50
+		},
+		{
+			"pregunta": "Qué hace el ordenador si pulsas Control + Z?",
+			"opciones": [
+				{
+					"respuesta": "Deshacer",
+					"correct": true
+				},
+				{
+					"respuesta": "Rehacer",
+					"correct": false
+				},
+				{
+					"respuesta": "Eliminar",
+					"correct": false
+				},
+				{
+					"respuesta": "Cortar",
+					"correct": false
+				}
+			],
+			"next": "Nivel2",
+			"puntos": 50
+		},
+		{
+			"pregunta": "Qué es el spam?",
+			"opciones": [
+				{
+					"respuesta": "Un virus informático",
+					"correct": false
+				},
+				{
+					"respuesta": "Correos no solicitados",
+					"correct": true
+				},
+				{
+					"respuesta": "Un lenguaje de programación",
+					"correct": false
+				},
+				{
+					"respuesta": "Una marca de ordenadores",
+					"correct": false
+				}
+			],
+			"next": "Nivel2",
+			"puntos": 50
+		},
+		{
+			"pregunta": "¿Cuál es la página de Internet más visitada del mundo?",
+			"opciones": [
+				{
+					"respuesta": "Gmail",
+					"correct": false
+				},
+				{
+					"respuesta": "Facebook",
+					"correct": false
+				},
+				{
+					"respuesta": "Twitter",
+					"correct": false
+				},
+				{
+					"respuesta": "Google",
+					"correct": true
+				}
+			],
+			"next": "Nivel2",
+			"puntos": 50
+		}
+	],
+	"Nivel2": [
+		{
+			"pregunta": "¿Qué significa la abreviatura WWW?",
+			"opciones": [
+				{
+					"respuesta": "With Written Words",
+					"correct": false
+				},
+				{
+					"respuesta": "Wireless World Web",
+					"correct": false
+				},
+				{
+					"respuesta": "World Wide Web",
+					"correct": true
+				},
+				{
+					"respuesta": "World Wailer Web",
+					"correct": false
+				}
+			],
+			"next": "Nivel3",
+			"puntos": 200
+		},
+		{
+			"pregunta": "¿Para qué sirve un hashtag?",
+			"opciones": [
+				{
+					"respuesta": "Para clasificar contenido en las redes sociales",
+					"correct": true
+				},
+				{
+					"respuesta": "Para bloquear a una persona",
+					"correct": false
+				},
+				{
+					"respuesta": "Para eliminar un contenido",
+					"correct": false
+				},
+				{
+					"respuesta": "Es un servidor de publicidad online",
+					"correct": false
+				}
+			],
+			"next": "Nivel3",
+			"puntos": 200
+		},
+		{
+			"pregunta": "¿Qué es un Código QR?",
+			"opciones": [
+				{
+					"respuesta": "Un conjunto de módulos en blanco y negro para obtener información",
+					"correct": true
+				},
+				{
+					"respuesta": "Un conjunto de módulos en blanco y negro para pagar en comercios",
+					"correct": false
+				},
+				{
+					"respuesta": "Un conjunto de módulos en blanco y negro para descargar una aplicación",
+					"correct": false
+				},
+				{
+					"respuesta": "Ninguno de los anteriores"
+				}
+			],
+			"next": "Nivel3",
+			"puntos": 200
+		},
+		{
+			"pregunta": "¿Cual es la red social mas usada en el mundo?",
+			"opciones": [
+				{
+					"respuesta": "Instagram",
+					"correct": false
+				},
+				{
+					"respuesta": "Facebook",
+					"correct": true
+				},
+				{
+					"respuesta": "Twitter",
+					"correct": false
+				},
+				{
+					"respuesta": "Whatsapp",
+					"correct": false
+				}
+			],
+			"next": "Nivel3",
+			"puntos": 200
+		},
+		{
+			"pregunta": "¿A qué hace relación el Internet de las Cosas?",
+			"opciones": [
+				{
+					"respuesta": "A todo lo que encuentras navegando en la red",
+					"correct": false
+				},
+				{
+					"respuesta": "A una red que interconecta objetos fisicos valiendose del Internet",
+					"correct": true
+				},
+				{
+					"respuesta": "Al Bluetooth, Wifi y demás redes",
+					"correct": false
+				},
+				{
+					"respuesta": "Ninguna de las anteriores",
+					"correct": false
+				}
+			],
+			"next": "Nivel3",
+			"puntos": 200
+		}
+	],
+	"Nivel3": [
+		{
+			"pregunta": "La realidad aumentada permite:",
+			"opciones": [
+				{
+					"respuesta": "Ver una película con gafas 3D.",
+					"correct": false
+				},
+				{
+					"respuesta": "Tomar fotografías con mayor y mejor calidad.",
+					"correct": false
+				},
+				{
+					"respuesta": "Observar elementos virtuales superpuestos a través del uso de dispositivos tecnológicos",
+					"correct": true
+				},
+				{
+					"respuesta": "Todas las anteriores",
+					"correct": false
+				}
+			],
+			"next": "Nivel4",
+			"puntos": 400
+		},
+		{
+			"pregunta": "¿Qué lenguaje informático es el más utilizado?",
+			"opciones": [
+				{
+					"respuesta": "PHP",
+					"correct": false
+				},
+				{
+					"respuesta": "Java",
+					"correct": true
+				},
+				{
+					"respuesta": "C#",
+					"correct": false
+				},
+				{
+					"respuesta": "SQL",
+					"correct": false
+				}
+			],
+			"next": "Nivel4",
+			"puntos": 400
+		},
+		{
+			"pregunta": "¿Qué marca vende más teléfonos en el mundo?",
+			"opciones": [
+				{
+					"respuesta": "Samsung",
+					"correct": true
+				},
+				{
+					"respuesta": "Huawei",
+					"correct": false
+				},
+				{
+					"respuesta": "Apple",
+					"correct": false
+				},
+				{
+					"respuesta": "Xiaomi",
+					"correct": false
+				}
+			],
+			"next": "Nivel4",
+			"puntos": 400
+		},
+		{
+			"pregunta": "¿Qué es un Chatbot?",
+			"opciones": [
+				{
+					"respuesta": "Una app de mensajería y chat para el móvil",
+					"correct": false
+				},
+				{
+					"respuesta": "Un robot con el que hablar cuando te sientes solo",
+					"correct": false
+				},
+				{
+					"respuesta": "Una sala de chat para robots",
+					"correct": false
+				},
+				{
+					"respuesta": "Un programa informático con el que es posible mantener una conversación, normalmente para solicitarle algún tipo de información",
+					"correct": true
+				}
+			],
+			"next": "Nivel4",
+			"puntos": 400
+		}
+	],
+	"Nivel4": [
+		{
+			"pregunta": "¿Cuándo se fundó Nintendo?",
+			"opciones": [
+				{
+					"respuesta": "En 1974",
+					"correct": false
+				},
+				{
+					"respuesta": "En 1995",
+					"correct": false
+				},
+				{
+					"respuesta": "En 1989",
+					"correct": true
+				},
+				{
+					"respuesta": "En 2001",
+					"correct": false
+				}
+			],
+			"next": "Nivel5",
+			"puntos": 450
+		},
+		{
+			"pregunta": "¿Sabes lo que es el Big Data?",
+			"opciones": [
+				{
+					"respuesta": "Un conjunto muy grande de datos",
+					"correct": false
+				},
+				{
+					"respuesta": "Es aprovechar la inteligencia de analizar y cruzar grandes cantidades de datos para identificar nuevas oportunidades de negocio",
+					"correct": true
+				},
+				{
+					"respuesta": "Disciplina tecnológica que se ocupa de almacenar cada vez un número mayor de datos, requiriendo cada vez más espacio",
+					"correct": false
+				},
+				{
+					"respuesta": "Procesar grandes cantidades de datos",
+					"correct": false
+				}
+			],
+			"next": "Nivel5",
+			"puntos": 450
+		},
+		{
+			"pregunta": "¿A que nos ayuda el Machine Learning?",
+			"opciones": [
+				{
+					"respuesta": "A programar las máquinas para que usen algoritmos para parsear datos, aprender de ellos y ser capaces de hacer predicciones o sugerencias",
+					"correct": true
+				},
+				{
+					"respuesta": "A enseñar a las máquinas a hacer cosas",
+					"correct": false
+				},
+				{
+					"respuesta": "A todo aquello que podemos aprender de una máquina",
+					"correct": false
+				},
+				{
+					"respuesta": " A programar maquinas que aprenden a programar",
+					"correct": false
+				}
+			],
+			"next": "Nivel5",
+			"puntos": 450
+		},
+		{
+			"pregunta": "¿Quién inventó Google?",
+			"opciones": [
+				{
+					"respuesta": "Bil Gates",
+					"correct": false
+				},
+				{
+					"respuesta": "Steve Jobs",
+					"correct": false
+				},
+				{
+					"respuesta": "Larry Page",
+					"correct": true
+				},
+				{
+					"respuesta": "Steve Wozniak",
+					"correct": false
+				}
+			],
+			"next": "Nivel5",
+			"puntos": 450
+		},
+		{
+			"pregunta": "¿Qué es el Blockchain?",
+			"opciones": [
+				{
+					"respuesta": "Es una cadena para bloquear datos y que solo nosotros podamos verlos",
+					"correct": false
+				},
+				{
+					"respuesta": "Es la nueva técnica para transferir dinero y que los bancos no puedan interferir en nuestro dinero",
+					"correct": true
+				},
+				{
+					"respuesta": "Una estructura de datos en la que la información contenida se agrupa en bloques enlazados y cifrados para proteger la seguridad y privacidad",
+					"correct": false
+				},
+				{
+					"respuesta": "A y C son correctas",
+					"correct": false
+				}
+			],
+			"next": "Nivel5",
+			"puntos": 450
+		}
+	],
+	"Nivel5": [
+		{
+			"pregunta": "¿A quién se considera el 'padre de internet'?",
+			"opciones": [
+				{
+					"respuesta": "Tim Berners-Lee",
+					"correct": false
+				},
+				{
+					"respuesta": "Vinton Cerf",
+					"correct": true
+				},
+				{
+					"respuesta": "Linus Torvalds",
+					"correct": false
+				},
+				{
+					"respuesta": "Bill Gates",
+					"correct": false
+				}
+			],
+			"next": "winner",
+			"puntos": 500
+		},
+		{
+			"pregunta": "¿Qué son los Digital Twins?",
+			"opciones": [
+				{
+					"respuesta": "Réplicas virtuales de objetos o procesos que simulan el comportamiento de sus homólogos reales",
+					"correct": true
+				},
+				{
+					"respuesta": "Los perfiles de los usuarios en las redes sociales",
+					"correct": false
+				},
+				{
+					"respuesta": "La reproducción digital de los objetos reales",
+					"correct": false
+				},
+				{
+					"respuesta": "Todas las anteriores",
+					"correct": false
+				}
+			],
+			"next": "winner",
+			"puntos": 500
+		},
+		{
+			"pregunta": "¿En qué año se estrenó el primer iPhone?",
+			"opciones": [
+				{
+					"respuesta": "2005",
+					"correct": false
+				},
+				{
+					"respuesta": "2007",
+					"correct": true
+				},
+				{
+					"respuesta": "2010",
+					"correct": false
+				},
+				{
+					"respuesta": "2012",
+					"correct": false
+				}
+			],
+			"next": "winner",
+			"puntos": 500
+		},
+		{
+			"pregunta": "En este año se envió el primer mensaje de texto SMS",
+			"opciones": [
+				{
+					"respuesta": "1992",
+					"correct": true
+				},
+				{
+					"respuesta": "1997",
+					"correct": false
+				},
+				{
+					"respuesta": "2002",
+					"correct": false
+				},
+				{
+					"respuesta": "1980",
+					"correct": false
+				}
+			],
+			"next": "winner",
+			"puntos": 500
+		},
+		{
+			"pregunta": "Steve Jobs y Steve Wozniak eran conocidos fundadores de Apple Inc., pero había un tercer fundador. ¿Cómo se llamaba?",
+			"opciones": [
+				{
+					"respuesta": "Ronald Wayne",
+					"correct": true
+				},
+				{
+					"respuesta": "Paul Allen",
+					"correct": false
+				},
+				{
+					"respuesta": "Chris Knight",
+					"correct": false
+				},
+				{
+					"respuesta": "Linus Torvalds",
+					"correct": false
+				}
+			],
+			"next": "winner",
+			"puntos": 500
+		}
+	]
+}
