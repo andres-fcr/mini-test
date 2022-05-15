@@ -10,4 +10,4 @@
 * Siguiente correr el comando ``npx json-server --watch db.json --port  3005`` para levantar la base de datos.
 * Para levantar el servidor local se debe correr el comando ```npm start``` en un nuevo terminal
 
-## Para la edicion de la base de datos se acude al archivo db.json en la ruta raiz.
+* Para editar la base de datos se acude al archivo db.json en la ruta raiz.
