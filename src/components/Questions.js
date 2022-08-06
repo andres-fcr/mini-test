@@ -54,7 +54,7 @@ const Questions = ({ setNivel, setPuntajeFinal, aleatoria }) => {
 		correct ? setCorrecto() : setIncorrecto();
 	};
 
-	if (condition) {
+	if (!aleatoria) {
 		return (
 			<Card bg="dark" style={{ width: "50rem" }} className="text-center mt-5">
 				<div class="lds-default"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
