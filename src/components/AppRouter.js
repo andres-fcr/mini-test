@@ -17,7 +17,7 @@ const AppRouter = () => {
    const [datosUsuario, setDatosUsuario] = useState()
 
    const getData = async (nivel) => {
-      const url = "http://localhost:3005/Nivel" + nivel;
+      const url = `https://mini-test-db.herokuapp.com/Nivel${nivel}`;
       const resp = await fetch(url);
       const data = resp.json();
       return data;

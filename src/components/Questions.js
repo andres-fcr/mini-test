@@ -8,10 +8,11 @@ const Questions = ({ setNivel, setPuntajeFinal, aleatoria }) => {
 	const [numero, setNumero] = useState(1);
 	const [puntuacion, setPuntuacion] = useState(0);
 	const { opciones, pregunta, puntos } = aleatoria;
-	
-	
-	
+
+
+
 	const navigate = useNavigate()
+
 	useEffect(() => {
 		const final = () => {
 			if (numero === 6) {
@@ -52,6 +53,14 @@ const Questions = ({ setNivel, setPuntajeFinal, aleatoria }) => {
 	const setRespuesta = (correct) => {
 		correct ? setCorrecto() : setIncorrecto();
 	};
+
+	if (condition) {
+		return (
+			<Card bg="dark" style={{ width: "50rem" }} className="text-center mt-5">
+				<div class="lds-default"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+			</Card>
+		)
+	}
 
 	return (
 		<div>
